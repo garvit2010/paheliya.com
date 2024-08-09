@@ -1,49 +1,74 @@
 Paheliya
 
-1.	What can you catch but can’t throw? A cold.
-2.	What has one eye but can’t see? A needle.
-3.	What appears once in a minute, twice in a moment, but never in a thousand years? The letter M.
-4.	I can go all around the world but never leave my corner. What am I? A stamp.
-5.	If you drop me, I crack. If you smile at me, I smile back. What am I? A mirror.
-6.	What has cities but no houses, forests but no trees, and water but no fish? A map.
-7.	What kind of lion never roars? A dandelion.
-8.	What do you call a bear with no teeth? A gummy bear.
-9.	I don’t cry when you cut me, but you do. What am I? An onion.
-10.	What has branches, but doesn’t have a trunk, leaves, or fruit? A bank.
-11.	What word begins with E, ends with E, but only has one letter? Envelope.
-12.	I am always in front of you, but you can’t see me. What am I?The future.
-13.	I can’t talk, but I always reply when someone speaks. What am I?An echo.
-14.	What can be touched but can’t be seen?Someone’s heart.
-15.	What’s tall when it’s young but short when it’s old?A candle. (or a pencil)
-16.	What gets wet while it’s drying?A towel.
-17.	It belongs to you, but other people use it more than you do. What is it?Your name.
-18.	What two things can you never eat before breakfast?Lunch and dinner.
-19.	What is orange, wears a green hat, and sounds like a parrot?A carrot.
-20.	What has hands but can’t clap?A clock.
-21.	I jump when I walk and sit when I stand. What am I?A kangaroo.
-22.	I have many teeth but I can’t bite. What am I?A comb.
-23.	I have a head and a tail, but I don’t have a body. What am I?A coin.
-24.	The more you take, the more you leave behind. What am I?Footsteps.
-25.	What has many keys but can’t open a single lock?A piano.
-26.	Where does today come before yesterday?The dictionary.
-27.	What has many rings but no fingers?A phone.
-28.	If you have me, you want to share me. If you share me, you haven’t kept me. What am I?A secret.
-29.	What goes up and down but doesn’t move?A staircase.
-30.	Which month of the year has 28 days?All of them.
-31.	What needs to be broken before you can use it?An egg.
-32.	What has a neck but doesn’t have a head?A bottle.
-33.	How do you spell “cow” with thirteen letters?See O Double You
-34.	What goes up but never comes down?Your age.
-35.	David’s parents have three sons: Snap, Crackle, and what?David.
-36.	I am an odd number. Take away a letter and I become even. What am I?Seven.
-37.	The person who makes it doesn’t need it. The person who buys it doesn’t use it. The person who uses it doesn’t see it or feel it. What is it?A coffin.
-38.	I have four fingers and a thumb, but I’m not alive. What am I?A glove.
-39.	What kind of room has no doors, walls, or windows?A mushroom.
-40.	How many seconds are in a year?Twelve. January 2nd, February 2nd, March 2nd…
-41.	What is the only word in the dictionary that is spelled wrong?Wrong. W-R-O-N-G.
-42.	Which word becomes shorter when you add two letters to it?Short.
-43.	What can you break without touching it?A promise.
-44.	Poor people have it. Rich people need it. If you eat it, you die. What is it?Nothing.
+1.	What can you catch but can’t throw?
+2.	A cold.
+3.	What has one eye but can’t see?
+4.	 A needle.
+5.	What appears once in a minute, twice in a moment, but never in a thousand years?
+6.	 The letter M.
+7.	I can go all around the world but never leave my corner. What am I?
+8.	 A stamp.
+9.	If you drop me, I crack. If you smile at me, I smile back. What am I?
+10.	A mirror.
+11.	What has cities but no houses, forests but no trees, and water but no fish?
+12.	A map.
+13.	What kind of lion never roars?
+14.	 A dandelion.
+15.	What do you call a bear with no teeth?
+16.	 A gummy bear.
+17.	I don’t cry when you cut me, but you do. What am I?
+18.	An onion.
+19.	What has branches, but doesn’t have a trunk, leaves, or fruit?
+20.	A bank.
+21.	What word begins with E, ends with E, but only has one letter?
+22.	 Envelope.
+23.	I am always in front of you, but you can’t see me. What am I?
+24.	The future.
+25.	I can’t talk, but I always reply when someone speaks. What am I?
+26.	An echo.
+27.	What can be touched but can’t be seen?
+28.	Someone’s heart.
+29.	What’s tall when it’s young but short when it’s old?
+30.	A candle. (or a pencil)
+31.	What gets wet while it’s drying?
+32.	A towel.
+33.	It belongs to you, but other people use it more than you do. What is it?
+34.	Your name.
+35.	What two things can you never eat before breakfast?
+36.	Lunch and dinner.
+37.	What is orange, wears a green hat, and sounds like a parrot?
+38.	A carrot.
+39.	What has hands but can’t clap?
+40.	A clock.
+41.	I jump when I walk and sit when I stand. What am I?
+42.	A kangaroo.
+43.	I have many teeth but I can’t bite. What am I?
+44.	A comb.
+45.	I have a head and a tail, but I don’t have a body. What am I?
+46.	A coin.
+47.	The more you take, the more you leave behind. What am I?
+48.	Footsteps.
+49.	What has many keys but can’t open a single lock?
+50.	A piano.
+51.	Where does today come before yesterday?The dictionary.
+52.	What has many rings but no fingers?A phone.
+53.	If you have me, you want to share me. If you share me, you haven’t kept me. What am I?A secret.
+54.	What goes up and down but doesn’t move?A staircase.
+55.	Which month of the year has 28 days?All of them.
+56.	What needs to be broken before you can use it?An egg.
+57.	What has a neck but doesn’t have a head?A bottle.
+58.	How do you spell “cow” with thirteen letters?See O Double You
+59.	What goes up but never comes down?Your age.
+60.	David’s parents have three sons: Snap, Crackle, and what?David.
+61.	I am an odd number. Take away a letter and I become even. What am I?Seven.
+62.	The person who makes it doesn’t need it. The person who buys it doesn’t use it. The person who uses it doesn’t see it or feel it. What is it?A coffin.
+63.	I have four fingers and a thumb, but I’m not alive. What am I?A glove.
+64.	What kind of room has no doors, walls, or windows?A mushroom.
+65.	How many seconds are in a year?Twelve. January 2nd, February 2nd, March 2nd…
+66.	What is the only word in the dictionary that is spelled wrong?Wrong. W-R-O-N-G.
+67.	Which word becomes shorter when you add two letters to it?Short.
+68.	What can you break without touching it?A promise.
+69.	Poor people have it. Rich people need it. If you eat it, you die. What is it?Nothing.
 45.	I sometimes run, but I can’t walk. What am I?A nose.
 46.	It can fill a room, but it takes up no space. What is it?Light.
 47.	What goes away as soon as you talk about it?Silence.
