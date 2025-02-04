@@ -1,7 +1,7 @@
 Paheliya
 
 1.	What can you catch but can’t throw?
-2Answer:    A cold.
+2.Answer:    A cold.
 3.	What has one eye but can’t see?
 4.Answer:	 A needle.
 5.	What appears once in a minute, twice in a moment, but never in a thousand years?
@@ -69,37 +69,33 @@ Paheliya
 67.	What goes up but never comes down?
 68.Answer:	Your age.
 69.	David’s parents have three sons: Snap, Crackle, and what?
-70.	David.
+70.Answer:	David.
 71.	I am an odd number. Take away a letter and I become even. What am I?
-72.	Seven.
-73.	The person who makes it doesn’t need it. The person who buys it doesn’t use it. The person who uses it doesn’t see it or feel it. What is it?
-74.	A coffin.
-75.	I have four fingers and a thumb, but I’m not alive. What am I?
-76.	A glove.
+72.Answer:A glove.
 77.	What kind of room has no doors, walls, or windows?
-78.	A mushroom.
+78.Answer:	A mushroom.
 79.	How many seconds are in a year?
-80.	Twelve. January 2nd, February 2nd, March 2nd…
+80.Answer:Twelve. January 2nd, February 2nd, March 2nd…
 81.	What is the only word in the dictionary that is spelled wrong?
-82.	Wrong. W-R-O-N-G.
+82.Answer:	Wrong. W-R-O-N-G.
 83.	Which word becomes shorter when you add two letters to it?
-84.	Short.
+84.Answer:	Short.
 85.	What can you break without touching it?
-86.	A promise.
+86.Answer:	A promise.
 87.	Poor people have it. Rich people need it. If you eat it, you die. What is it?
-88.	Nothing.
-45.	I sometimes run, but I can’t walk. What am I?
-46.	A nose.
-47.	It can fill a room, but it takes up no space. What is it?
-48.	Light.
-49.	What goes away as soon as you talk about it?
-50.	Silence.
-51.	I can be bigger than you but weigh nothing at all. What am I?
-52.	Your shadow.
-53.	What starts with T, ends with T, and has T inside it?
-54.	A teapot.
-55.	I have a head, but I have no brain. What am I?
-56.	Lettuce.
+88.Answer:	Nothing.
+89.	I sometimes run, but I can’t walk. What am I?
+90.Answer:	A nose.
+91.	It can fill a room, but it takes up no space. What is it?
+92.Answer:	Light.
+93.	What goes away as soon as you talk about it?
+94.Answer:	Silence.
+95.	I can be bigger than you but weigh nothing at all. What am I?
+96.Answer:	Your shadow.
+97.	What starts with T, ends with T, and has T inside it?
+98.Answer:	A teapot.
+99.	I have a head, but I have no brain. What am I?
+100.Answer:	Lettuce.
            
 1   Riddle: I’m tall when I’m young, and I’m short when I’m old. What am I?
 Answer: A candle
@@ -410,12 +406,15 @@ Answer: A secret.
 22. I’m orange, wear a green hat, and sound like a parrot. What am I?
 Answer: A Carrot.
 Conclusion
-Riddles are fun, especially when kids understand how the world around them works. You can use these riddles or make your own. Once your child is familiar with the concept of riddles and brain-teasers, you can even challenge them into making their own!
 
 
 
+Riddles are fun, especially when kids understand how the world around them works.
+ You can use these riddles or makeyour own.
+ Once your child is familiar with the concept of riddles and brain-teasers,
+ you can even challenge them into making their own!
 
-
+paheliya
 ________________________________________
 "'पहेलियाँ 
 1.एक आदमी दिन में कई बार दाढ़ी बनाता है लेकिन फिर भी उसकी दाढ़ी रहती है। वह कौन है?
