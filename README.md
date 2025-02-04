@@ -50,31 +50,55 @@ Paheliya
 48.	Footsteps.
 49.	What has many keys but can’t open a single lock?
 50.	A piano.
-51.	Where does today come before yesterday?The dictionary.
-52.	What has many rings but no fingers?A phone.
-53.	If you have me, you want to share me. If you share me, you haven’t kept me. What am I?A secret.
-54.	What goes up and down but doesn’t move?A staircase.
-55.	Which month of the year has 28 days?All of them.
-56.	What needs to be broken before you can use it?An egg.
-57.	What has a neck but doesn’t have a head?A bottle.
-58.	How do you spell “cow” with thirteen letters?See O Double You
-59.	What goes up but never comes down?Your age.
-60.	David’s parents have three sons: Snap, Crackle, and what?David.
-61.	I am an odd number. Take away a letter and I become even. What am I?Seven.
-62.	The person who makes it doesn’t need it. The person who buys it doesn’t use it. The person who uses it doesn’t see it or feel it. What is it?A coffin.
-63.	I have four fingers and a thumb, but I’m not alive. What am I?A glove.
-64.	What kind of room has no doors, walls, or windows?A mushroom.
-65.	How many seconds are in a year?Twelve. January 2nd, February 2nd, March 2nd…
-66.	What is the only word in the dictionary that is spelled wrong?Wrong. W-R-O-N-G.
-67.	Which word becomes shorter when you add two letters to it?Short.
-68.	What can you break without touching it?A promise.
-69.	Poor people have it. Rich people need it. If you eat it, you die. What is it?Nothing.
-45.	I sometimes run, but I can’t walk. What am I?A nose.
-46.	It can fill a room, but it takes up no space. What is it?Light.
-47.	What goes away as soon as you talk about it?Silence.
-48.	I can be bigger than you but weigh nothing at all. What am I?Your shadow.
-49.	What starts with T, ends with T, and has T inside it?A teapot.
-50.	I have a head, but I have no brain. What am I?Lettuce.
+51.	Where does today come before yesterday?
+52.	The dictionary.
+53.	What has many rings but no fingers?
+54.	A phone.
+55.	If you have me, you want to share me. If you share me, you haven’t kept me. What am I?
+56.	A secret.
+57.	What goes up and down but doesn’t move?
+58.	A staircase.
+59.	Which month of the year has 28 days?
+60.	All of them.
+61.	What needs to be broken before you can use it?
+62.	An egg.
+63.	What has a neck but doesn’t have a head?
+64.	A bottle.
+65.	How do you spell “cow” with thirteen letters?
+66.	See O Double You
+67.	What goes up but never comes down?Your age.
+68.	David’s parents have three sons: Snap, Crackle, and what?
+69.	David.
+70.	I am an odd number. Take away a letter and I become even. What am I?
+71.	Seven.
+72.	The person who makes it doesn’t need it. The person who buys it doesn’t use it. The person who uses it doesn’t see it or feel it. What is it?
+73.	A coffin.
+74.	I have four fingers and a thumb, but I’m not alive. What am I?
+75.	A glove.
+76.	What kind of room has no doors, walls, or windows?
+77.	A mushroom.
+78.	How many seconds are in a year?
+79.	Twelve. January 2nd, February 2nd, March 2nd…
+80.	What is the only word in the dictionary that is spelled wrong?
+81.	Wrong. W-R-O-N-G.
+82.	Which word becomes shorter when you add two letters to it?
+83.	Short.
+84.	What can you break without touching it?
+85.	A promise.
+86.	Poor people have it. Rich people need it. If you eat it, you die. What is it?
+87.	Nothing.
+45.	I sometimes run, but I can’t walk. What am I?
+46.	A nose.
+47.	It can fill a room, but it takes up no space. What is it?
+48.	Light.
+49.	What goes away as soon as you talk about it?
+50.	Silence.
+51.	I can be bigger than you but weigh nothing at all. What am I?
+52.	Your shadow.
+53.	What starts with T, ends with T, and has T inside it?
+54.	A teapot.
+55.	I have a head, but I have no brain. What am I?
+56.	Lettuce.
            
 1   Riddle: I’m tall when I’m young, and I’m short when I’m old. What am I?
 Answer: A candle
